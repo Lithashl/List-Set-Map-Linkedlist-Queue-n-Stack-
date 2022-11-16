@@ -18,7 +18,7 @@ public class MapProject {
 
         System.out.println((BornBts));
 
-        //if I want see year of Min Yoongi only
+        //if I want to see year of Min Yoongi only
         System.out.println(BornBts.get("Min Yoongi"));
     }
 }
